@@ -1,4 +1,4 @@
-##SI5 Feladat: Projekt futtatása Command line runner-rel
+## SI5 Feladat: Projekt futtatása Command line runner-rel
 
 Feladatod, hogy használd a Selenium side runner-t. Parancssorból futtasd le a rögzített és exportált .side fájlodat (SI4 Feladat), majd a futtatás eredményét mentsd el egy txt fájlba!
 > A megoldást egy `SI5_runner.txt` kezdetű fájlban kell beadnod!
