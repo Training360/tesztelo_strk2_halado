@@ -18,12 +18,12 @@ docker-compose up -d
 ```
 
 Az alkalmazás hamarosan elindul, s ezt követően a *Parancssor*ban az alábbi kép fogad.
-![assets/start-pic.png](assets/start-pic.png)
+![assets/start-pic.png](assets/start-pic.PNG)
 
 Webböngészőben nyisd meg az alábbi URL-t:
 `http://localhost:8080`
 
-![assets/locations-start-pic.png](assets/locations-start.png)
+![assets/locations-start-pic.png](assets/locations-start.PNG)
 
 
 Ezzel készen is vagy a feladatok elvégzésére szánt környezet beállításával.
