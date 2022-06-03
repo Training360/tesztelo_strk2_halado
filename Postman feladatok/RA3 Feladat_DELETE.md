@@ -7,4 +7,4 @@ Az előzőekben létrehozott LocationsHF_RA2 collection-t másold le! A kópiát
 >A megoldást egy `LocationsHF_RA3.postman_collection` nevű fájlban kell beadnod!
 
 ### Feladat beadása
-A fent említett  fájlt és benne a megoldásodat a `hf-tesztelo-strk2-halado` szervezet alá létrehozott `vezeteknev_keresztnev_hf` privát github repodban egy `postman_hf` nevű mappába helyezd el!
+A fent említett  fájlt és benne a megoldásodat a `hf-tesztelo-strk2-halado` szervezet alá létrehozott `vezeteknev_keresztnev` privát github repodban egy `postman_hf` nevű mappába helyezd el!

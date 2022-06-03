@@ -5,4 +5,4 @@ Az előzőekben létrehozott, kiexportált LocationsHF_RA4 collection-t futtasd 
 >A megoldást egy `LocationsHF_RA5.txt` nevű fájlban kell beadnod!
 
 ### Feladat beadása
-A fent említett  fájlt és benne a megoldásodat a `hf-tesztelo-strk2-halado` szervezet alá létrehozott `vezeteknev_keresztnev_hf` privát github repodban egy `postman_hf` nevű mappába helyezd el!
+A fent említett  fájlt és benne a megoldásodat a `hf-tesztelo-strk2-halado` szervezet alá létrehozott `vezeteknev_keresztnev` privát github repodban egy `postman_hf` nevű mappába helyezd el!
